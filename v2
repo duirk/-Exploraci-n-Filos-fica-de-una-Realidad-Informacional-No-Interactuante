@@ -17,8 +17,8 @@ Index
 * relación de selección.
 publicar resultados sobre la saturación del procesamiento de información
 -Investigación filosofica sobre la invarianza temporal de la información en el marco de la CGS = 
-Este documento presenta la primera formulación de esta propuesta.
-Se prevén revisiones y ampliaciones en futuras versiones conforme avance la investigación.
+Este documento presenta una primera formulación del programa CGS. Las futuras versiones estarán orientadas
+a la formalización matemática completa y a la identificación de posibles correspondencias físicas observables
 Hacia una Ontología de la Invarianza Temporal v1.pdf
 Para su versión 2
 ¿Qué instrumento podría medir una variable asociada a Ω?
@@ -26,6 +26,29 @@ Para su versión 2
 ¿Qué unidades tendría?
 ¿Cómo podría obtenerse experimentalmente?
 ¿Qué valores o predicciones cuantitativas produce el modelo?
+              CGS — Programa de Investigación
+metodo del programa = 
+        ¿Qué existe?
+             │
+             ▼
+     FILOSOFÍA / ONTOLOGÍA
+     Estructura informacional fundamental
+             │
+             ▼
+     MATEMÁTICA / FORMALIZACIÓN
+     Definiciones, operadores y relaciones
+             │
+             ▼
+     FÍSICA / OPERACIONALIZACIÓN
+     Variables observables y predicciones
+             │
+             ▼
+     INGENIERÍA / EXPERIMENTACIÓN
+     Protocolos, sensores y mediciones
+             │
+             ▼
+     HARDWARE / INSTRUMENTACIÓN
+     Sistema de detección experimental
 ------------------------------------------------------------------------------------------------
 Transformar la propuesta inicial en un marco matemático coherente
 **Autor:** Nadal Ferrá
